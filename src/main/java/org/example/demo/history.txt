@@ -1,0 +1,5 @@
+(a : b) => (22 : 16)  Winner is a!
+(aa : a) => (23 : 10)  Winner is aa!
+(a : b) => (22 : 22)  Draw!
+(a : b) => (30 : 40)  Winner is b!
+(a : b) => (23 : 26)  Winner is b!
